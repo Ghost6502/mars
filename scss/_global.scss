@@ -1,0 +1,14 @@
+html{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+.container{
+    padding: 0 215px;
+}
